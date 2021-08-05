@@ -8,7 +8,7 @@
 - 🏛 Flutter Developer at Straight Technologies
 - 💻 Cross Platform App Developer
 - ⚡ Expert at UI/ UX of Mobile app
-- 🔭 I’m currently working on project **echain campus**
+- 🔭 I’m currently working on project **echain campus** 
 - 📸 Photography Lover
 - 🇵🇰  Faisalabad / Islamabad, Pakistan
 - 📱 (+92) 32 3507 753 8
