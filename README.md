@@ -16,7 +16,8 @@
 <br><br>
 
 <div align="center">
-<a href="behance.net/mla303">
+<a href="https://behance.net/mla303">
+<img src="https://img.shields.io/badge/Portfolio-my%20portfolio-brightgreen"></a>
 <a href="https://github.com/mla303">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.linkedin.com/in/luqman303gb/">
