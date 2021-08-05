@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+[Muhammad Luqman Asif](https://www.linkedin.com/in/luqman303gb/)
 
-You can use the [editor on GitHub](https://github.com/mla303/mla303/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
 
-### Markdown
+- 🎓 Graduate of Riphah International University Islamabad
+- 🏛 Flutter Developer at Straight Technologies
+- 💻 Cross Platform App Developer
+- ⚡ Expert at UI/ UX of Mobile app
+- 🔭 I’m currently working on project **echain campus**
+- 📸 Photography Lover
+- 🇵🇰  Faisalabad / Islamabad, Pakistan
+- 📱 (+92) 32 3507 753 8
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br><br>
 
-```markdown
-Syntax highlighted code block
+<div align="center">
+<a href="https://usama.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
+<a href="https://github.com/mla303">
+<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
+<a href="https://www.linkedin.com/in/luqman303gb/">
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
+<a href="https://www.facebook.com/luqman303gb">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
+<a href="https://www.instagram.com/mla303gb/">
+<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
+<a href="mailto:luqman.edu303@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
+<a href="https://wa.me/923235077538?text=%23Github">
+<img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
+</div>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<div align="center">
+<p align="center">Tools & Technology 🛠</p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=for-the-badge&logo=Adobe-illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+</div>
+<br>
 
-1. Numbered
-2. List
+<div align="center">
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mla303&theme=dark&layout=compact&langs_count=20"/>
+</div>
+<br>
+<div align="center">
+    <p align="center">GitHub Stats 📝</p>
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=mla303&theme=dark"/>
+</div>
+<br>
+<p align="center">Flutter Developer from <b>Punjab, Pakistan</b> 🇵🇰 </p>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mla303/mla303/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div align="center">
+</div> 
