@@ -5,6 +5,10 @@
 <img align="right" alt="Developer Muhammad Luqman Asif" src="code.gif" width="500" height="320" />
 
 - 🎓 Graduate of Riphah International University Islamabad
+- 🏛 **QA Engineer | Learning Automation Testing**
+- 💻 **Learning Python & Selenium for Automated Testing**
+- ⚡ **Exploring Automation QA Tools**
+- 🔭 **Currently working on test automation for web applications**
 - 🏛 Flutter Developer at Straight Technologies
 - 💻 Cross Platform App Developer
 - ⚡ Expert at UI/ UX of Mobile app
@@ -35,12 +39,15 @@
 
 <div align="center">
 <p align="center">Tools & Technology 🛠</p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2C2255?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=for-the-badge&logo=Adobe-illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
@@ -56,7 +63,7 @@
     <img align="center"  src="https://github-readme-stats.vercel.app/api?username=mla303&theme=dark"/>
 </div>
 <br>
-<p align="center">Flutter Developer from <b>Punjab, Pakistan</b> 🇵🇰 </p>
+<p align="center">QA Engineer & Python Developer from <b>Punjab, Pakistan</b> 🇵🇰 </p>
 
 <div align="center">
 </div> 
